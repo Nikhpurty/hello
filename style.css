@@ -1,0 +1,61 @@
+img{
+    width:800px;
+    height:300px;
+}
+h1, .h1 {
+    font-size: 36px;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #34495e;
+}
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+* {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.section {
+    font-size: 56px;
+    text-align: Left;
+    margin-top: 35px;
+    letter-spacing: 3px;
+    font-weight: 500;
+    color: #34495e;
+    text-transform: capitalize;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333;
+    background-color: #f2f3f8;
+}
+html {
+    font-size: 62.5%;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
